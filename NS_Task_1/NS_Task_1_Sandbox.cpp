@@ -1,6 +1,5 @@
 
-/*This is not the final code,we will submit it tomarrow because our proximity sensor isn't working properly.
-Thank you.*/
+
 
 
 #include "NS_Task_1_Sandbox.h"
